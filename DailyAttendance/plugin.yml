@@ -1,0 +1,12 @@
+name: DailyAttendance
+api: 5.0.0
+version: 1.0.0
+main: Ki\DailyAttendance
+author: KiritoTvT
+commands:
+  attendance:
+    description: "Daily Attendance"
+    permission: attendance.daily
+permissions:
+  attendance.daily:
+    default: true
